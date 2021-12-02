@@ -71,6 +71,13 @@
 		52D317262670E76A003F2777 /* ScrollableStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D317152670E76A003F2777 /* ScrollableStackView.swift */; };
 		52D317272670E76A003F2777 /* BaseRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D317162670E76A003F2777 /* BaseRouter.swift */; };
 		52D317282670E76A003F2777 /* Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D317172670E76A003F2777 /* Font.swift */; };
+		52F2F77927598F2C00AE1405 /* Screenshot 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77527598F2B00AE1405 /* Screenshot 4.png */; };
+		52F2F77A27598F2C00AE1405 /* Screenshot 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77627598F2B00AE1405 /* Screenshot 1.png */; };
+		52F2F77B27598F2C00AE1405 /* Screenshot 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77727598F2C00AE1405 /* Screenshot 3.png */; };
+		52F2F77C27598F2C00AE1405 /* Screenshot 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77827598F2C00AE1405 /* Screenshot 5.png */; };
+		52F2F77E27598F5000AE1405 /* Screenshot 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77D27598F5000AE1405 /* Screenshot 2.png */; };
+		52F2F78127598FBC00AE1405 /* Screenshot 0.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F77F27598FBC00AE1405 /* Screenshot 0.png */; };
+		52F2F78227598FBC00AE1405 /* Screenshot 01.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F2F78027598FBC00AE1405 /* Screenshot 01.png */; };
 		52F5D9662672952800D9BA7D /* AccountPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F5D9602672952800D9BA7D /* AccountPresenter.swift */; };
 		52F5D9672672952800D9BA7D /* AccountRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F5D9612672952800D9BA7D /* AccountRouter.swift */; };
 		52F5D9682672952800D9BA7D /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F5D9622672952800D9BA7D /* AccountViewController.swift */; };
@@ -148,6 +155,13 @@
 		52D317152670E76A003F2777 /* ScrollableStackView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollableStackView.swift; sourceTree = "<group>"; };
 		52D317162670E76A003F2777 /* BaseRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseRouter.swift; sourceTree = "<group>"; };
 		52D317172670E76A003F2777 /* Font.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Font.swift; sourceTree = "<group>"; };
+		52F2F77527598F2B00AE1405 /* Screenshot 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 4.png"; sourceTree = "<group>"; };
+		52F2F77627598F2B00AE1405 /* Screenshot 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 1.png"; sourceTree = "<group>"; };
+		52F2F77727598F2C00AE1405 /* Screenshot 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 3.png"; sourceTree = "<group>"; };
+		52F2F77827598F2C00AE1405 /* Screenshot 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 5.png"; sourceTree = "<group>"; };
+		52F2F77D27598F5000AE1405 /* Screenshot 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2.png"; sourceTree = "<group>"; };
+		52F2F77F27598FBC00AE1405 /* Screenshot 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 0.png"; sourceTree = "<group>"; };
+		52F2F78027598FBC00AE1405 /* Screenshot 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 01.png"; sourceTree = "<group>"; };
 		52F5D9602672952800D9BA7D /* AccountPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountPresenter.swift; sourceTree = "<group>"; };
 		52F5D9612672952800D9BA7D /* AccountRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountRouter.swift; sourceTree = "<group>"; };
 		52F5D9622672952800D9BA7D /* AccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
@@ -226,6 +240,7 @@
 		52B7DF49266F7E3300A96BD3 /* ToDoTap */ = {
 			isa = PBXGroup;
 			children = (
+				52F2F77427598F0C00AE1405 /* Screenshots */,
 				52B7DFC1266FB03300A96BD3 /* Helpers */,
 				52B7DF7C266F8D5B00A96BD3 /* Extensions */,
 				52B7DF74266F85CB00A96BD3 /* Models */,
@@ -406,6 +421,20 @@
 			path = Helper;
 			sourceTree = "<group>";
 		};
+		52F2F77427598F0C00AE1405 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				52F2F77F27598FBC00AE1405 /* Screenshot 0.png */,
+				52F2F78027598FBC00AE1405 /* Screenshot 01.png */,
+				52F2F77D27598F5000AE1405 /* Screenshot 2.png */,
+				52F2F77627598F2B00AE1405 /* Screenshot 1.png */,
+				52F2F77727598F2C00AE1405 /* Screenshot 3.png */,
+				52F2F77827598F2C00AE1405 /* Screenshot 5.png */,
+				52F2F77527598F2B00AE1405 /* Screenshot 4.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		52F5D95F2672951500D9BA7D /* Account */ = {
 			isa = PBXGroup;
 			children = (
@@ -489,7 +518,14 @@
 			files = (
 				52B7DF57266F7E3800A96BD3 /* LaunchScreen.storyboard in Resources */,
 				528E9E64267230640075440C /* GoogleService-Info.plist in Resources */,
+				52F2F77A27598F2C00AE1405 /* Screenshot 1.png in Resources */,
+				52F2F77C27598F2C00AE1405 /* Screenshot 5.png in Resources */,
 				52B7DF54266F7E3800A96BD3 /* Assets.xcassets in Resources */,
+				52F2F77E27598F5000AE1405 /* Screenshot 2.png in Resources */,
+				52F2F78227598FBC00AE1405 /* Screenshot 01.png in Resources */,
+				52F2F78127598FBC00AE1405 /* Screenshot 0.png in Resources */,
+				52F2F77927598F2C00AE1405 /* Screenshot 4.png in Resources */,
+				52F2F77B27598F2C00AE1405 /* Screenshot 3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
